@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Unit Cal</string>
+    <string name="cm_to_m">cm to m</string>
+    <string name="m_to_cm">m to cm</string>
+    <string name="convert">Convert</string>
+    <string name="enter_a_value_to_convert">Enter a value to convert</string>
+    <string name="centimeters_to_meters">Centimeters to Meters</string>
+    <string name="meters_to_centimeters">Meters to Centimeters</string>
+</resources>
